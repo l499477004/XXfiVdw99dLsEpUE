@@ -36,4 +36,3 @@ jobs:
         directory: master
         github_token: ${{ secrets.PAT }}
         branch: master
-        force: true
